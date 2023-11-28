@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @puppet-fish
+- 👀 I’m interested in GAME
+- 🌱 I’m currently learning React~
